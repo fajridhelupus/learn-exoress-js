@@ -1,9 +1,7 @@
-# Node.js Loginapp
-
-This is a user login and registration app using Node.js, Express, and Passport It is part of the YouTube series [here](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+# learn node.js
 
 ### Version
-1.1.0
+1.0
 
 ### Usage
 
